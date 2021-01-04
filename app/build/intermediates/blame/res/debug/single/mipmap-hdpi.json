@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    }
+]

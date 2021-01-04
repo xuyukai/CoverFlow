@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\buaa\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_934ae47d9e062dc19e54854dc3371d5445899e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\buaa\.android\build-cache\5b7e3763edab33a204c6d2f86b25e909c841b2cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\classes_fe64d1c1bbfaea2dfeea3b15fe1d3d0480957072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\buaa\.android\build-cache\b5563b5aa323183cb62774aae6d7c27030a69e37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\classes_54f5a270fb0c2468fe09164cda3d8f70d10e704b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\buaa\.android\build-cache\2f2b825c6d70f9bcb6add7dbb6fb3f78290fa9e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\classes_3c03137e923eb020b81f4da6bfbb8c2aacc12667.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\CoverFlow-master\lib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b00240729c1b62eaf5aeaf05e18d460c3da2ddbf">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\classes_8a3451ba50040c6f8f8a4fe75f2102b54be2f44b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\buaa\.android\build-cache\67e810eb97be6244e4296834519168052e375267\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\classes_551e1ecf02279a53f69079f76b9ffc06ec6a938b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\buaa\.android\build-cache\7857fc73d5a4f0b093f68299231d292479866962\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\classes_5209a0e6c0ff1afc550ca9d62f253dbefaf215d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\buaa\.android\build-cache\7857fc73d5a4f0b093f68299231d292479866962\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_7941156691746e30da0337b57b3a8e30b7159acd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\buaa\.android\build-cache\ce2de59cb62b58c5f90d1c967a6a2824ab9ba56b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\classes_4bb6109a171bb725279b3ce53bc1cb59b72a3eaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\buaa\.android\build-cache\1d165c47dc8a516cdb2566f1e41b8e71876f161e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\classes_cd50bf509e9dd75a07caeecc98eff934f1cccc49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\buaa\.android\build-cache\fe474fd8e10569266c41e2cd9cfe55b06d3116fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Android\CoverFlow-master\app\build\intermediates\pre-dexed\debug\classes_46f88509259bfc3521942150b752128f703bb4ed.jar" />
+    </item>
+
+</items>

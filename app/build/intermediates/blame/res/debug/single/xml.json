@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings_smartagriculture.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\xml\\settings_smartagriculture.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_notification.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings_foodtraceability.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\xml\\settings_foodtraceability.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings_smarthome.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\xml\\settings_smarthome.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_coverflow_activity.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\menu\\menu_coverflow_activity.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main2_drawer.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_buscard.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\menu\\menu_buscard.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "C:\\Android\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_query.xml",
+        "source": "C:\\Android\\CoverFlow-master\\app\\src\\main\\res\\menu\\menu_query.xml"
+    }
+]
